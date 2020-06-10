@@ -1,3 +1,3 @@
 # JerryCodingChallenge
 
-## Solution for the Range List challenge
+### Solution for the Range List challenge
