@@ -1,0 +1,15 @@
+{
+  "name": "jerry-assisngment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Karan Singh",
+  "license": "ISC"
+}
